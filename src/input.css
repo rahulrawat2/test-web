@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.radial-color{
+        background:radial-gradient(lightcyan , lightgreen)
+}
+.myblue{
+        color: blue;
+}
